@@ -1,0 +1,45 @@
+  [
+    {
+      "_id": "dress1",
+      "image": "/images/item-1.png",
+      "title": "beg",
+      "description": "beg", 
+      "price": 29.9
+    },
+    {
+      "_id": "dress2",
+      "image": "/images/item-2.png",
+      "title": "philips nooise",
+      "description": "philips noise", 
+      "price": 18.9
+    },
+    {
+      "_id": "dress3",
+      "image": "/images/item-3.png",
+      "title": "hyes",
+      "description": "hyses", 
+      "price": 14.9
+    },
+    {
+      "_id": "dress4",
+      "image": "/images/item-4.png",
+      "title": "Mutiport",
+      "description": "multiport", 
+      "price": 25.9
+    },
+    {
+      "_id": "dress5",
+      "image": "/images/item-5.png",
+      "title": "Cream",
+      "description": "betuy", 
+      "price": 10.9
+    },
+    {
+      "_id": "dress6",
+      "image": "/images/item-6.png",
+      "title": "Lipistic",
+      "description": "Lipistic",
+      "price": 49.9
+    }
+  ]
+
