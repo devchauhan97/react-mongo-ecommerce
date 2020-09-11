@@ -1,5 +1,6 @@
 # react-mongo-ecommerce
-## Runging Steps 
+
+## Steps for run application 
 
 Step -1 : install node module 
 
